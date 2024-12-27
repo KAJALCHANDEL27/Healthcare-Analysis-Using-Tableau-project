@@ -1,8 +1,10 @@
 # Healthcare-Analysis-Using-Tableau-project
 Connected to the CSV file Healthcare dataset, which includes the data regarding patients’ blood pressure, BMI, glucose, insulin, and diabetes for patients from the 20+ age group. Build 2 dashboards and then creatde a story using the 2 dashboards and a worksheet.
+
 Dashboard 1 Requirements
 Take any image regarding healthcare and drag it to the dashboard.
 Using Text object, give it a meaningful name based on your data analysis of the file.
+
 Dashboard 2 Requirements
 
 View 1: Diabetic/Non-diabetic using Shapes
